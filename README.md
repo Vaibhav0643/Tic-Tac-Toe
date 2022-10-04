@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-Source Code for Tic Tac Toe project made by VA Tech.https://www.youtube.com/watch?v=RBc-NP766KE
+Source Code for Tic Tac Toe project made by TechAeron. https://www.youtube.com/watch?v=RBc-NP766KE
 
  This is a simple mini project in C programming. 
 1. The game is to be played between two people (player1 and player2). 
